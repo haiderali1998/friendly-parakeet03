@@ -27,16 +27,10 @@ SO THAT I can create a strong password that provides greater security
     WHEN the password is generated
     THEN the password is written to the page.
 
-## Mock up
-
-<section>
-    ![Webpage Screenshot] (./assets/images/screenshot)
-    
-</section>
 
 ## Repository link
 
-
+https://github.com/haiderali1998/friendly-parakeet03
 
 
 ## Web Site Link
