@@ -35,6 +35,7 @@ https://github.com/haiderali1998/friendly-parakeet03
 
 ## Web Site Link
 
+https://haiderali1998.github.io/friendly-parakeet03/
 
 ## Screenshot
 <section>
